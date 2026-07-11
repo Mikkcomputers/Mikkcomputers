@@ -1,7 +1,23 @@
 - 👋 I am SOFTWARE DEVELOPER
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Php
+- 🌱 I learned Php,
+- I’m currently learning React js, Node -> Express
 - 💞️ I’m Fullstack Dev ...
+- Advance Microsoft Excel
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+### Backend
+- PHP
+- Python
+- Node.js (Express)
+### Database
+- Microsoft Access
+- MySQL
+- Mongodb
+- 
 - 📫 Continoues Learning is my favourite ...
 
 <!---
